@@ -1,0 +1,23 @@
+{
+    "projects": [
+        {
+            "img": "portal.png",
+            "alt": "Portal Clone",
+            "projName": "Portal Clone",
+            "projSubHead": "Recreation of Portal(2023)",
+            "projDesc": "Features include 3d graphics, FPS camera, AI state machine, teleport physics, JSON parsing.",
+            "projTech": "C++",
+            "mainLink": "https://willow-red.github.io/games-site/portal/Lab12.html"
+        },
+        {
+            "img": "marioKart.png",
+            "alt": "Mario Kart Game",
+            "projName": "Mario Kart Clone",
+            "projSubHead": "Recreation of Mario Kart(2023)",
+            "projDesc": "Features 3d graphics, AI driven opponent, vehicle physics, and springy follow camera.",
+            "projTech": "C++",
+            "mainLink": "https://willow-red.github.io/games-site/marioKart/Lab08.html"
+        }
+        
+    ]
+}
