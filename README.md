@@ -1,2 +1,2 @@
-# Personal Website
-Contains all of my coding projects and some web design as well.
+# Personal Website — Archived
+Portfolio website made with React and Bootstrap frameworks, designed by me. This is an archived site so I can look back on my progress as a web developer :-)
